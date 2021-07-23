@@ -3,8 +3,8 @@
 
 ```javascript
 const santo = {
-  Frontend: [Javascript, Typescript, Angular, HTML, CSS,Tailwind, Bootstrap,
-  Backend: [Angular, NodeJs],
+  Frontend: [Javascript, Typescript, Angular, HTML, CSS,Tailwind, Bootstrap,],
+  Backend: [NodeJs],
   Database: [PostgreSQL, MySQL, Mongo DB]
   Tools: [Git, GitHub, VSC, WebStorm, Discord],
   Hobbies: "Jogging" | "Play Video Games" | "Swimming",
